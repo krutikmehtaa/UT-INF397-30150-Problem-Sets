@@ -6,7 +6,7 @@ Each assignment is provided as a standalone Jupyter Notebook (`.ipynb`) file.
 
 ## 📘 Course Resource
 
-* [*ISLP*] (https://www.statlearning.com/)
+**[ISLP](https://www.statlearning.com/)**
 
 ## 🧠 Contents
 
