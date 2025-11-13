@@ -6,7 +6,7 @@ Each assignment is provided as a standalone Jupyter Notebook (`.ipynb`) file.
 
 ## 📘 Course Resource
 
-* [*An Introduction to Statistical Learning with Applications(ISL)*](https://www.statlearning.com/)
+* [*ISLP*] (https://www.statlearning.com/)
 
 ## 🧠 Contents
 
